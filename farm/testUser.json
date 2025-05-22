@@ -1,0 +1,20 @@
+{
+    "username": "testUser",
+    "balance": 7.5,
+    "chickens": 1,
+    "cows": 0,
+    "food_chicken": 0,
+    "food_cow": 0,
+    "eggs": 0,
+    "milk": 0,
+    "eggs_to_collect": 0,
+    "milk_to_collect": 0,
+    "animals": [
+        {
+            "name": "Chicken1",
+            "status": "hungry",
+            "next_product_time": null,
+            "last_saved_time": null
+        }
+    ]
+}

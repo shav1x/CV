@@ -1,0 +1,32 @@
+{
+    "username": "qwjdnqj",
+    "balance": 1198.98,
+    "chickens": 2,
+    "cows": 1,
+    "food_chicken": 2,
+    "food_cow": 1,
+    "eggs": 1,
+    "milk": 0,
+    "eggs_to_collect": 0,
+    "milk_to_collect": 0,
+    "animals": [
+        {
+            "name": "Chicken1",
+            "status": "satisfied",
+            "next_product_time": 164.93728685379028,
+            "last_saved_time": 1747835298.439679
+        },
+        {
+            "name": "Chicken2",
+            "status": "satisfied",
+            "next_product_time": 42.39308714866638,
+            "last_saved_time": 1747835298.438886
+        },
+        {
+            "name": "Cow1",
+            "status": "satisfied",
+            "next_product_time": 144.30607748031616,
+            "last_saved_time": 1747835298.4396539
+        }
+    ]
+}

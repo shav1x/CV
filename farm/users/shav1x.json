@@ -1,0 +1,20 @@
+{
+    "username": "shav1x",
+    "balance": 18.53,
+    "chickens": 1,
+    "cows": 0,
+    "food_chicken": 1,
+    "food_cow": 0,
+    "eggs": 0,
+    "milk": 0,
+    "eggs_to_collect": 0,
+    "milk_to_collect": 0,
+    "animals": [
+        {
+            "name": "Chicken1",
+            "status": "satisfied",
+            "next_product_time": 130.79507613182068,
+            "last_saved_time": 1747822650.4682539
+        }
+    ]
+}
